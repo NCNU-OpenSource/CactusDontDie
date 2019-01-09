@@ -41,7 +41,6 @@ Groupmates:
     + Sending Emails With Python
 
 ## 電路圖
-![Iot plant]https://github.com/paperelmo/1071_LSA_group9_CactusDontDie/blob/master/IoT%20plan.png
 
 ## 分工
 + [何曉倩](https://github.com/Dorothy0405) 資工四 104321060
