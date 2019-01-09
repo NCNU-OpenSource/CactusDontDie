@@ -17,6 +17,9 @@ Groupmates:
 5) [參考資料]()
 
 ## 系統架構
++ python
++ mysql
++ php
 
 ## 設備
 | 名稱 | 數量 | 來源 |
@@ -37,7 +40,9 @@ Groupmates:
     + 根據盆栽的大小和植物的需要而調節適合的澆水長度
         + 百合花︰
         + 仙人掌︰
-3) 水槽缺水時發Email提醒
+3) 把泥土的狀況和澆水的記錄存至database
+4) 網頁實時看數據 
+5) 水槽缺水時發Email提醒
     + Sending Emails With Python
 
 ## 電路圖
