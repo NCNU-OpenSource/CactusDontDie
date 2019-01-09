@@ -58,3 +58,4 @@ Groupmates:
 + [php cant show up on apache2 solution](https://askubuntu.com/questions/451708/php-script-not-executing-on-apache-server)
 + [mysql set all privileges for the user ROOT](https://www.youtube.com/watch?v=kQ0HoLva9Yc)
 + [install python lib mysqldb](https://stackoverflow.com/questions/454854/no-module-named-mysqldb/36183193)
++ [mysql change timezone](https://www.brilliantcode.net/473/mysql-set-change-timezone/)
