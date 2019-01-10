@@ -29,6 +29,7 @@ Groupmates:
 | 沉水馬達 | 1 | 新購/MOLi |
 | Soil Moisture Sensor | 1 | 新購/MOLi |
 | 水管 | 1 | 新購/MOLi |
+
 ## 功能
 1) 偵側泥土的水份是否足夠
     + 使用Soil Moisture Sensor
@@ -47,6 +48,10 @@ Groupmates:
 
 ## 電路圖
 ![](https://github.com/paperelmo/1071_LSA_group9_CactusDontDie/blob/master/IoTplant%20.png "電路圖")
+
+## 成品圖
+
+
 ## 分工
 + [何曉倩](https://github.com/Dorothy0405) 資工四 104321060 主程式碼, 主題發想, 資料搜集, raspberry pi環境設定, 材料採購
 
