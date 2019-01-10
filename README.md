@@ -33,13 +33,13 @@ Groupmates:
 1) 偵側泥土的水份是否足夠
     + 使用Soil Moisture Sensor
     + 根據盆栽的大小和植物的需要而調節適合的泥土濕度標準
-    + 每 判斷一次
+    + 每6小時判斷一次
 2) 自動澆水
     + 使用繼電器和沉水馬逹
     + 當判斷為水份不足的時候，系統會利用繼電器控制沉水馬逹的開關
     + 根據盆栽的大小和植物的需要而調節適合的澆水長度
-        + 百合花︰
-        + 仙人掌︰
+        + 百合花︰0.5s
+        + 仙人掌︰0.1s
 3) 把泥土的狀況和澆水的記錄存至database
 4) 網頁實時看數據 
 5) 水槽缺水時發Email提醒
@@ -48,11 +48,11 @@ Groupmates:
 ## 電路圖
 ![](https://github.com/paperelmo/1071_LSA_group9_CactusDontDie/blob/master/IoTplant%20.png "電路圖")
 ## 分工
-+ [何曉倩](https://github.com/Dorothy0405) 資工四 104321060
++ [何曉倩](https://github.com/Dorothy0405) 資工四 104321060 主程式碼, 主題發想, 資料搜集, raspberry pi環境設定, 材料採購
 
-+ [王子佳](https://github.com/ivan922114) 資工四 104321062
++ [王子佳](https://github.com/ivan922114) 資工四 104321062 硬體, 資料搜集, 簡報內容
 
-+ [鄭芷君](https://github.com/paperelmo) 資工四 104321070
++ [鄭芷君](https://github.com/paperelmo) 資工四 104321070 主網頁, 主題發想, SQL, 資料搜集, 仙人掌主人
 
 ## 參考資料
 + [php cant show up on apache2 solution](https://askubuntu.com/questions/451708/php-script-not-executing-on-apache-server)
