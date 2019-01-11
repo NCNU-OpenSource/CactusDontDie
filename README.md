@@ -50,7 +50,7 @@ Groupmates:
 ![](https://github.com/paperelmo/1071_LSA_group9_CactusDontDie/blob/master/IoTplant%20.png "電路圖")
 
 ## 成品圖
-
+![](https://github.com/paperelmo/1071_LSA_group9_CactusDontDie/blob/master/photo_2019-01-11_17-34-35.jpg "成品圖")
 
 ## 分工
 + [何曉倩](https://github.com/Dorothy0405) 資工四 104321060 主程式碼, 主題發想, 資料搜集, raspberry pi環境設定, 材料採購
