@@ -55,7 +55,7 @@ Groupmates:
 ## 分工
 + [何曉倩](https://github.com/Dorothy0405) 資工四 104321060 主程式碼, 主題發想, 資料搜集, raspberry pi環境設定, 材料採購
 
-+ [王子佳](https://github.com/ivan922114) 資工四 104321062 硬體, 資料搜集, 簡報內容, 電路圖
++ [王子佳](https://github.com/ivan922114) 資工四 104321062 主題發想, 硬體, 資料搜集, 簡報內容, 電路圖
 
 + [鄭芷君](https://github.com/paperelmo) 資工四 104321070 主網頁, 主題發想, SQL, 資料搜集, 仙人掌主人
 
