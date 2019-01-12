@@ -52,6 +52,14 @@ Groupmates:
 ## 成品圖
 ![](https://github.com/paperelmo/1071_LSA_group9_CactusDontDie/blob/master/photo_2019-01-11_17-34-35.jpg "成品圖")
 
+## 網頁截圖
+每次先檢查需不需要澆水
+![](https://github.com/paperelmo/1071_LSA_group9_CactusDontDie/blob/master/網頁資料庫顯示_1.jpg "判斷是否需要澆水")
+需要澆水的時候，澆水後會把紀錄記錄在資料庫
+![](https://github.com/paperelmo/1071_LSA_group9_CactusDontDie/blob/master/網頁資料庫顯示_2.jpg "已澆水記錄")
+## EMAIL通知
+每次澆水後都會email通知
+![](https://github.com/paperelmo/1071_LSA_group9_CactusDontDie/blob/master/email通知.jpg "自動email通知")
 ## 分工
 + [何曉倩](https://github.com/Dorothy0405) 資工四 104321060 主程式碼, 主題發想, 資料搜集, raspberry pi環境設定, 材料採購
 
